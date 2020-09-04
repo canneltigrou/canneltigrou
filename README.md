@@ -15,9 +15,8 @@ However, I worked on several projects without AI, for example I implemented some
 You can find me on [LinkedIn](https://www.linkedin.com/in/claire-mevolhon/?locale=en_US)
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=canneltigrou" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canneltigrou" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=canneltigrou&show_icons=true&theme=cobalt"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canneltigrou&theme=cobalt"/>  
 
 
 

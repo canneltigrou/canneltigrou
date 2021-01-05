@@ -11,8 +11,10 @@ I also really like computer vision. I was lucky to work on a facial recognition,
 
 
 However, I also worked on several projects without AI, for example I implemented some codes for SEVRI.  
+You can also see some Jupyter notebooks that I regrouped [here](https://canneltigrou.github.io)  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/claire-mevolhon/?locale=en_US)
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=canneltigrou&show_icons=true&theme=cobalt"/>
